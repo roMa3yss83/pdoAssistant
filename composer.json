@@ -1,0 +1,10 @@
+{
+    "name": "roma3yss83/pdo-assistant",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Roma3yss83\\PdoAssistant\\": "src/"
+        }
+    },
+    "require": {}
+}
